@@ -1,0 +1,3 @@
+Swarm Symphony
+Original game design, code, procedural audio system, vector creature art, island themes and UI created for this project.
+No third-party music, sound effects, fonts, images, or libraries are bundled.
